@@ -1,0 +1,8 @@
+# Ignore submodule/cloned source directory if not tracking upstream inside this repo
+pm3-source/
+
+# Ignore log files and temporary dumps
+*.log
+*.dump
+*.bin
+*.elf
