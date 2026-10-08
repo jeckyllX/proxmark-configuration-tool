@@ -60,6 +60,12 @@ flowchart TD
 
 ---
 
+## Technical Investigations
+
+* [**Breaking Security Through Obscurity in MIFARE Classic Extensions**](./investigation/mifare_classic_obscurity_case_study.md): Architectural analysis of non-standard 18-sector transponders, ISO/IEC 14443-A SAK framing mechanics, and replication onto 4-byte S70 silicon using synthetic data.
+
+---
+
 ## Recovery / Bootloader Mode
 
 If flashing is interrupted or the device fails to boot:
